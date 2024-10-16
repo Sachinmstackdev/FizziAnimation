@@ -31,3 +31,19 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/your-username/fizzi-animation.git
    cd fizzi-animation
+
+2. Install the dependencies:
+
+bash
+
+npm install
+# or
+yarn install
+
+3. Start the development server:
+
+npm run dev
+# or
+yarn dev
+
+4. Open your browser and navigate to http://localhost:3000 to view the app.
